@@ -1,0 +1,7 @@
+{
+  "name": "location-tracking",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
